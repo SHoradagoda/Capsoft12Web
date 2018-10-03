@@ -1,6 +1,6 @@
 {
     "title": "Modern Business",
-    "name": "startbootstrap-modern-business",
+    "name": "capsoft12-consulting",
     "version": "4.1.1",
     "description": "A multipurpose HTML website template built with Bootstrap",
     "keywords": [
@@ -13,7 +13,7 @@
     ],
     "homepage": "https://startbootstrap.com/template-overviews/modern-business",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business/issues",
+        "url": "https://github.com/BlackrockDigital/capsoft12-consulting/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -23,7 +23,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business.git"
+        "url": "https://github.com/BlackrockDigital/capsoft12-consulting.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
